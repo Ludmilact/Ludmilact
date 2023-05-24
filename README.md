@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="left">
+<h2>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
+</div><br>
 
-<!--
-**Ludmilact/Ludmilact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🦰 I'm Ludmila and my pronouns are she/her <br>
+  
+👩‍🎓 I have a bachelor's degree in Law and now I study computer sciente
+  
+👩‍💻 I make my carrer transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> 's Web Development 
+  
+📚 I love books, and I read all genres
+   
+🐾 Fun fact: I love animals and I own two dogs.
 
-Here are some ideas to get you started:
+How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="left">
+<h2>Git Status 🔥 </h2>
+</div><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludmilact&theme=flag-india&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ludmilact&theme=flag-india)](https://git.io/streak-stats)
+
