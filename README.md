@@ -8,7 +8,7 @@
   
 👩‍💻 I make my career transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> Web Development bootcamp
   
-📚 I love books, and I read all genres
+📚 I love books and enjoy reading all genres
    
 🐾 Fun fact: I love animals and I own two dogs.
 
