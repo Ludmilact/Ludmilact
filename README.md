@@ -6,7 +6,7 @@
   
 👩‍🎓 I have bachelor's degree in Law and now I'm studying computer science
   
-👩‍💻 I make my carrer transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> 's Web Development 
+👩‍💻 I make my career transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> Web Development bootcamp
   
 📚 I love books, and I read all genres
    
