@@ -2,7 +2,7 @@
 <h2>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
 </div><br>
 
-👩‍🦰 I'm Ludmila and my pronouns are she/her <br>
+👩‍🦰 I'm Ludmila and my pronouns are she/her 
   
 👩‍🎓 I have a bachelor's degree in Law and now I study computer sciente
   
