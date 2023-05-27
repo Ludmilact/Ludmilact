@@ -10,7 +10,7 @@
   
 📚 I love books and enjoy reading all genres
    
-🐾 Fun fact: I love animals and I own two dogs.
+🐾 Fun fact: I love animals and I own two dogs
 
 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
 
