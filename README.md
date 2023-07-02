@@ -3,15 +3,9 @@
 </div><br>
 
 👩‍🦰 I'm Ludmila and my pronouns are she/her 
-  
-👩‍🎓 I have bachelor's degree in Law and now I'm studying computer science
-  
+
 👩‍💻 I make my career transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> Web Development bootcamp
   
-📚 I love books and enjoy reading all genres
-   
-🐾 Fun fact: I love animals and I own two dogs
-
 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
 
 
