@@ -11,7 +11,7 @@ How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=
 
 <div align="left">
 <h2>🔥 Git Status </h2>
-</div><br>
+</div> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludmilact&theme=flag-india&show_icons=true)
 
