@@ -10,7 +10,7 @@ How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,typescript,docker,react,nodejs,mysql,postgres,github,bash,vscode,js,html,js" />
+    <img src="https://skillicons.dev/icons?i=git,typescript,docker,react,nodejs,mysql,github,bash,vscode,js,html" />
   </a>
 </p>
 
