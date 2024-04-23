@@ -17,7 +17,7 @@
 </p>
 
 <div align="left">
-<h2>🔥 git Status </h2>
+<h2>🔥 Git Status </h2>
 </div> <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ludmilact&theme=flag-india)](https://git.io/streak-stats)
