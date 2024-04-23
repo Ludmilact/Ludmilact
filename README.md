@@ -1,16 +1,19 @@
 <div align="left">
 <h2>Hello 👋 </h2>
 </div><br>
+<div>
+  I'm Ludmila
 
- I'm Ludmila
-
-👩‍💻 I make my career transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> Web Development bootcamp
+👩‍💻 I'm a software developer in the process of a career transition, currently studying at UniAmérica and <a href="https://github.com/betrybe"><b>Trybe</b></a> Web Development bootcamp.
   
-How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
+   How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
 
+</div>
+
+<h2>technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,typescript,docker,react,nodejs,mysql,github,bash,vscode,js,html" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,java,typescript,html,docker,react,nodejs,mysql,bash,vscode," />
   </a>
 </p>
 
