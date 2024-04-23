@@ -1,8 +1,8 @@
 <div align="left">
-<h2>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
+<h2>Hello 👋 </h2>
 </div><br>
 
-👩‍🦰 I'm Ludmila and my pronouns are she/her 
+ I'm Ludmila
 
 👩‍💻 I make my career transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> Web Development bootcamp
   
