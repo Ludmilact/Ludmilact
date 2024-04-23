@@ -8,11 +8,14 @@
   
 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,typescript,docker,react,nodejs,mysql,postgres,github,bash,vscode,js,html,js" />
+  </a>
+</p>
 
 <div align="left">
 <h2>🔥 Git Status </h2>
 </div> <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludmilact&theme=flag-india&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ludmilact&theme=flag-india)](https://git.io/streak-stats)
