@@ -15,9 +15,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,js,java,typescript,html,docker,react,nodejs,mysql,bash,vscode," />
   </a>
 </p>
-
-<div align="left">
-<h2>🔥 Git Status </h2>
-</div> <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ludmilact&theme=flag-india)](https://git.io/streak-stats)
