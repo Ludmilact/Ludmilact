@@ -12,6 +12,6 @@
 <h2>Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,java,typescript,html,docker,react,nodejs,mysql,bash,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,github,js,java,typescript,python,html,docker,react,nodejs,mysql,bash,vscode," />
   </a>
 </p>
