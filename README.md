@@ -8,6 +8,7 @@
    How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
 
 </div>
+
 <h2>Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
