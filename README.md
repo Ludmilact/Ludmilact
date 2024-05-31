@@ -7,7 +7,6 @@
                                                                                                            href="https://github.com/betrybe"><b>Trybe</b></a> Web Development bootcamp.
 
 
-  <br>
    How to reach me:  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ludmilactimoteo/)
 
 </div>
