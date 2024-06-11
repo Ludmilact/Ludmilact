@@ -1,6 +1,7 @@
 <div align="left">
 <h2>Hello 👋  I'm Ludmila </h2>
-</div><br>
+</div>
+<br>
 
 <div>
    I'm a software developer in the process of a career transition, currently studying at UniAmérica and <a 
